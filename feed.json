@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "about.abir",
+    "description": "",
+    "home_page_url": "https://abir446.github.io/about.abir",
+    "feed_url": "https://abir446.github.io/about.abir/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Abir Dutta"
+    },
+    "items": [
+    ]
+}
