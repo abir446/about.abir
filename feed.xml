@@ -3,12 +3,35 @@
     <title>about.abir</title>
     <link href="https://abir446.github.io/about.abir/feed.xml" rel="self" />
     <link href="https://abir446.github.io/about.abir" />
-    <updated>2026-11-05T12:47:36+05:30</updated>
+    <updated>2026-11-16T19:06:57+05:30</updated>
     <author>
         <name>Abir Dutta</name>
     </author>
     <id>https://abir446.github.io/about.abir</id>
 
+    <entry>
+        <title>Afterglow</title>
+        <author>
+            <name>Abir Dutta</name>
+        </author>
+        <link href="https://abir446.github.io/about.abir/afterglow/"/>
+        <id>https://abir446.github.io/about.abir/afterglow/</id>
+            <category term="Moments that made me pause"/>
+
+        <updated>2026-11-16T19:06:57+05:30</updated>
+            <summary type="html">
+                <![CDATA[
+                    A song of lights and shadows
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image post__image--full"><img loading="lazy" src="https://abir446.github.io/about.abir/media/posts/12/lightjhaar.jpg" alt="Light at ghat pandel in gangarampur town." width="6000" height="4000" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://abir446.github.io/about.abir/media/posts/12/responsive/lightjhaar-xs.jpg 640w ,https://abir446.github.io/about.abir/media/posts/12/responsive/lightjhaar-sm.jpg 768w ,https://abir446.github.io/about.abir/media/posts/12/responsive/lightjhaar-md.jpg 1024w ,https://abir446.github.io/about.abir/media/posts/12/responsive/lightjhaar-lg.jpg 1366w ,https://abir446.github.io/about.abir/media/posts/12/responsive/lightjhaar-xl.jpg 1600w ,https://abir446.github.io/about.abir/media/posts/12/responsive/lightjhaar-2xl.jpg 1920w">
+<figcaption>A song of lights and shadows</figcaption>
+</figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Why good memories fade?</title>
         <author>
