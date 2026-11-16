@@ -3,32 +3,42 @@
     <title>about.abir</title>
     <link href="https://abir446.github.io/about.abir/feed.xml" rel="self" />
     <link href="https://abir446.github.io/about.abir" />
-    <updated>2026-11-16T19:06:57+05:30</updated>
+    <updated>2026-11-16T19:47:25+05:30</updated>
     <author>
         <name>Abir Dutta</name>
     </author>
     <id>https://abir446.github.io/about.abir</id>
 
     <entry>
-        <title>Afterglow</title>
+        <title>Visit to a friend...</title>
         <author>
             <name>Abir Dutta</name>
         </author>
-        <link href="https://abir446.github.io/about.abir/afterglow/"/>
-        <id>https://abir446.github.io/about.abir/afterglow/</id>
+        <link href="https://abir446.github.io/about.abir/visit-to-a-friend/"/>
+        <id>https://abir446.github.io/about.abir/visit-to-a-friend/</id>
+        <media:content url="https://abir446.github.io/about.abir/media/posts/13/IMG_20261115_174151.jpg" medium="image" />
             <category term="Moments that made me pause"/>
 
-        <updated>2026-11-16T19:06:57+05:30</updated>
+        <updated>2026-11-16T19:45:57+05:30</updated>
             <summary type="html">
                 <![CDATA[
-                    A song of lights and shadows
+                        <img src="https://abir446.github.io/about.abir/media/posts/13/IMG_20261115_174151.jpg" alt="" />
+                    A song of Lights and Shadows Le jaaye jane kaha hawayein Effortless I took these pictures in Chatt puja in gangarapmpur while visiting a friend.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image post__image--full"><img loading="lazy" src="https://abir446.github.io/about.abir/media/posts/12/lightjhaar.jpg" alt="Light at ghat pandel in gangarampur town." width="6000" height="4000" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://abir446.github.io/about.abir/media/posts/12/responsive/lightjhaar-xs.jpg 640w ,https://abir446.github.io/about.abir/media/posts/12/responsive/lightjhaar-sm.jpg 768w ,https://abir446.github.io/about.abir/media/posts/12/responsive/lightjhaar-md.jpg 1024w ,https://abir446.github.io/about.abir/media/posts/12/responsive/lightjhaar-lg.jpg 1366w ,https://abir446.github.io/about.abir/media/posts/12/responsive/lightjhaar-xl.jpg 1600w ,https://abir446.github.io/about.abir/media/posts/12/responsive/lightjhaar-2xl.jpg 1920w">
-<figcaption>A song of lights and shadows</figcaption>
+                    <p><img src="https://abir446.github.io/about.abir/media/posts/13/IMG_20261115_174151.jpg" class="type:primaryImage" alt="" /></p>
+                <figure class="post__image"><img loading="lazy" src="https://abir446.github.io/about.abir/media/posts/13/lightjhaar.jpg" alt="" width="6000" height="4000" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://abir446.github.io/about.abir/media/posts/13/responsive/lightjhaar-xs.jpg 640w ,https://abir446.github.io/about.abir/media/posts/13/responsive/lightjhaar-sm.jpg 768w ,https://abir446.github.io/about.abir/media/posts/13/responsive/lightjhaar-md.jpg 1024w ,https://abir446.github.io/about.abir/media/posts/13/responsive/lightjhaar-lg.jpg 1366w ,https://abir446.github.io/about.abir/media/posts/13/responsive/lightjhaar-xl.jpg 1600w ,https://abir446.github.io/about.abir/media/posts/13/responsive/lightjhaar-2xl.jpg 1920w">
+<figcaption>A song of Lights and Shadows</figcaption>
 </figure>
+<figure class="post__image post__image--left"><img loading="lazy" src="https://abir446.github.io/about.abir/media/posts/13/boat_river.jpg" alt="" width="4000" height="6000" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://abir446.github.io/about.abir/media/posts/13/responsive/boat_river-xs.jpg 640w ,https://abir446.github.io/about.abir/media/posts/13/responsive/boat_river-sm.jpg 768w ,https://abir446.github.io/about.abir/media/posts/13/responsive/boat_river-md.jpg 1024w ,https://abir446.github.io/about.abir/media/posts/13/responsive/boat_river-lg.jpg 1366w ,https://abir446.github.io/about.abir/media/posts/13/responsive/boat_river-xl.jpg 1600w ,https://abir446.github.io/about.abir/media/posts/13/responsive/boat_river-2xl.jpg 1920w">
+<figcaption>Le jaaye jane kaha hawayein</figcaption>
+</figure>
+<figure class="post__image"><img loading="lazy" src="https://abir446.github.io/about.abir/media/posts/13/aunty_aura.jpg" alt="" width="6000" height="4000" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://abir446.github.io/about.abir/media/posts/13/responsive/aunty_aura-xs.jpg 640w ,https://abir446.github.io/about.abir/media/posts/13/responsive/aunty_aura-sm.jpg 768w ,https://abir446.github.io/about.abir/media/posts/13/responsive/aunty_aura-md.jpg 1024w ,https://abir446.github.io/about.abir/media/posts/13/responsive/aunty_aura-lg.jpg 1366w ,https://abir446.github.io/about.abir/media/posts/13/responsive/aunty_aura-xl.jpg 1600w ,https://abir446.github.io/about.abir/media/posts/13/responsive/aunty_aura-2xl.jpg 1920w">
+<figcaption>Effortless</figcaption>
+</figure>
+<p>I took these pictures in Chatt puja in gangarapmpur while visiting a friend.</p>
             ]]>
         </content>
     </entry>
